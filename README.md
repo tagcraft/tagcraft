@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me  
-Hi, I'm **Nitya Saluja**, a third-year Computer Science student passionate about solving problems and building meaningful projects.  
+Hi, I'm **Nitya Saluja**, a third-year B.Tech Computer Science student passionate about solving problems and building meaningful projects.  
 
 - 🔭 **Currently working on:** A Web-based application to aid dementia patients  
 - 🌱 **Learning:** APIs, backend development, and advanced DSA  
