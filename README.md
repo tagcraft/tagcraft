@@ -56,7 +56,7 @@ Hi, I'm **Nitya Saluja**, a third-year B.Tech Computer Science student passionat
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=tagcraft&repo=Myntra-Clone&theme=dark" alt="Myntra Clone" title="Myntra Clone Project" />
   </a>  
   
-  <a href="https://github.com/tagcraft/portflio">
+  <a href="https://github.com/tagcraft/PortfolioSite">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=tagcraft&repo=portflio&theme=dark" alt="Portfolio" title="Portfolio Project" />
   </a>  
     
