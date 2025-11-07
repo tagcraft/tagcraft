@@ -50,17 +50,6 @@ Hi, I'm **Nitya Saluja**, a third-year B.Tech Computer Science student passionat
 
 ---
 
-## 🔥 Pinned Projects  
-<p>
-  <a href="https://github.com/tagcraft/Myntra-Clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tagcraft&repo=Myntra-Clone&theme=dark" alt="Myntra Clone" title="Myntra Clone Project" />
-  </a>  
-  
-  
-    
-</p>
-
----
 
 ## 📫 Connect With Me  
 <p>
