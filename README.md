@@ -11,8 +11,7 @@ Hi, I'm **Nitya Saluja**, a third-year B.Tech Computer Science student passionat
 - 🔭 **Currently working on:** A Web-based application to aid dementia patients  
 - 🌱 **Learning:** APIs, full stack development, and  DSA  
 - 👯 **Looking to collaborate on:** Web + full-stack projects  
-- 🔍 **Exploring:** Full-stack development & backend integration  
-- 📄 **Know more about me:** [My Resume](https://drive.google.com/file/d/16Si_7AK9jukDDHQ6UeMVJqD3cYXsLW3b/view?usp=sharing)  
+- 🔍 **Exploring:** Full-stack development & backend integration   
 
 ---
 
